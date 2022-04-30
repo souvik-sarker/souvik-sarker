@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @souvik-sarker
+- 👀 I’m interested in Python and JavaScript
+- 🌱 I’m currently learning full stack web Development with python
+- 💞️ I’m looking to collaborate on Web projects
+- 📫 How to reach me souvik.saker@gmail.com
